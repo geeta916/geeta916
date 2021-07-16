@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Geetanjali Bankia.
 
-<!--
-**geeta916/geeta916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on ... NIT Calicut.
 - 🌱 I’m currently learning ... MCA program.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I'm alive.
--->
